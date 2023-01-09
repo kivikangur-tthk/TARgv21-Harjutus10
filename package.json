@@ -1,0 +1,23 @@
+{
+  "name": "targv21-harjutus10",
+  "version": "1.0.0",
+  "description": "Veel kord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kivikangur-tthk/TARgv21-Harjutus10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kivikangur-tthk/TARgv21-Harjutus10/issues"
+  },
+  "homepage": "https://github.com/kivikangur-tthk/TARgv21-Harjutus10#readme",
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
